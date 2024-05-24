@@ -1,0 +1,20 @@
+{
+  "name": "mjj-quiz-system",
+  "version": "2.0.0",
+  "description": "The quiz project will be a web application where users can take quizzes on various topics.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
